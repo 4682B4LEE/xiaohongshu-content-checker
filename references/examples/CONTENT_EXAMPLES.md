@@ -1,7 +1,7 @@
 ---
 name: CONTENT_EXAMPLES
 version: 2.1.0
-last_updated: 2026-05
+last_updated: 2026-05-14
 type: reference-knowledge
 ---
 
@@ -557,9 +557,9 @@ Modern minimalist living room, wooden style, sunken sofa area, wabi-sabi, natura
 | 0基础闭眼入 / 小白躺赚 | 需要一定的学习成本 / 建议先小成本试错 |
 | 国内版马尔代夫 / 美到窒息 | 原相机直出风景 / 真实探店感受 |
 
-*最后更新：2026年5月*
+*最后更新：2026年5月14日*
 
 ## 版本历史
 
-- v2.1.0 (2026-05): 架构重构，拆分工作流，知识库下沉按需加载。
-- v2.0.0 (2025-05): 初始完整版。
+- v2.1.0 (2026-05-14): 架构重构，拆分工作流，知识库下沉按需加载。
+- v2.0.0 (2026-05-12): 初始完整版。
