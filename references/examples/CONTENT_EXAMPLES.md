@@ -1,3 +1,10 @@
+---
+name: CONTENT_EXAMPLES
+version: 2.1.0
+last_updated: 2026-05
+type: reference-knowledge
+---
+
 # **内容优化案例库**
 
 本文档提供真实的内容优化案例，结合小红书最新社区规范及治理方向，展示如何将违规或低质内容优化为合规、优质、受欢迎的真诚分享。
@@ -551,3 +558,8 @@ Modern minimalist living room, wooden style, sunken sofa area, wabi-sabi, natura
 | 国内版马尔代夫 / 美到窒息 | 原相机直出风景 / 真实探店感受 |
 
 *最后更新：2026年5月*
+
+## 版本历史
+
+- v2.1.0 (2026-05): 架构重构，拆分工作流，知识库下沉按需加载。
+- v2.0.0 (2025-05): 初始完整版。
