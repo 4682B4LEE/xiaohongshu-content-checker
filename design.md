@@ -1,6 +1,6 @@
 ---
 name: xiaohongshu-content-checker-design
-version: 2.1.0
+version: 2.3.0
 last_updated: 2026-05-14
 type: documentation
 ---
@@ -47,5 +47,6 @@ xiaohongshu-content-checker/
 
 ## 四、版本历史
 
+- v2.3.0 (2026-05-14): 增强多轮对话体验、完善视频/评论区场景、优化Token管理、统一版本号。
 - v2.1.0 (2026-05-14): 架构重构，拆分工作流，知识库下沉按需加载。
 - v2.0.0 (2026-05-12): 初始完整版。
