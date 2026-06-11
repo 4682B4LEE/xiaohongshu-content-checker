@@ -9,3 +9,6 @@ tests/
 
 # Git 备份
 .git.backup/
+
+# 根目录残留（已迁移至 xiaohongshu-content-checker/references/）
+references/
