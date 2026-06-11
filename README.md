@@ -30,26 +30,29 @@
 ## 包含内容
 
 ```
-xiaohongshu-content-checker/
-  SKILL.md                    # Skill 主体说明和触发规则
-  SKILL_LOGIC.md              # 后台工程逻辑（模式路由、评分机制、防御策略）
-  CHANGELOG.md                # 版本历史
-  references/
-    risk-rubric.md            # 风险评分规则（唯一评分来源）
-    mode-fast.md              # 极速排雷输出模板
-    mode-full.md              # 完整检测输出模板
-    mode-batch.md             # 批量检测输出模板
-    mode-video.md             # 视频笔记专项模板
-    detection/
-      SENSITIVE_WORDS.md      # 敏感词与变体识别（8大分类）
-      REPLACEMENT_SUGGESTIONS.md  # 合规替代表达库
-    examples/
-      CONTENT_EXAMPLES.md     # 内容优化案例（8大行业）
-      ONE_SHOT_DEMO.md        # One-Shot 高危文案对比演示
-    platform/
-      PLATFORM_RULES.md       # 平台规则与算法机制
-    positioning/
-      ACCOUNT_POSITIONING.md  # 账号人设与定位指南
+RedBook-Skills/
+├── README.md                              # 项目说明（用户面向）
+├── CHANGELOG.md                           # 版本变更历史
+├── SKILL_LOGIC.md                         # 后台工程逻辑（开发者面向）
+└── xiaohongshu-content-checker/           # Skill 运行目录
+    ├── SKILL.md                           # Skill 主体（触发规则、模式路由、全局边界）
+    └── references/
+        ├── risk-rubric.md                 # 风险评分规则（唯一评分来源）
+        ├── mode-fast.md                   # 极速排雷输出模板
+        ├── mode-full.md                   # 完整检测输出模板
+        ├── mode-batch.md                  # 批量检测输出模板
+        ├── mode-video.md                  # 视频笔记专项模板
+        ├── detection/
+        │   ├── SENSITIVE_WORDS.md         # 敏感词与变体识别（8大分类）
+        │   └── REPLACEMENT_SUGGESTIONS.md # 合规替代表达库
+        ├── examples/
+        │   ├── CONTENT_EXAMPLES.md        # 内容优化案例（8大行业）
+        │   ├── ONE_SHOT_DEMO.md           # One-Shot 高危文案对比演示
+        │   └── golden-cases.md            # Golden Test 标准评测样例
+        ├── platform/
+        │   └── PLATFORM_RULES.md          # 平台规则与算法机制
+        └── positioning/
+            └── ACCOUNT_POSITIONING.md     # 账号人设与定位指南
 ```
 
 ---
