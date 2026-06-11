@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 d906402076fd9c73397f7792bdcb2a22b8f6bad9 Roy Lee <lipeiheng4396@Gmail.com> 1778573999 +0800	commit (initial): feat: 初始化小红书笔记敏感词检测 Skill
+d906402076fd9c73397f7792bdcb2a22b8f6bad9 d906402076fd9c73397f7792bdcb2a22b8f6bad9 Roy Lee <lipeiheng4396@Gmail.com> 1778574018 +0800	Branch: renamed refs/heads/master to refs/heads/main
+d906402076fd9c73397f7792bdcb2a22b8f6bad9 9824b773c1f4c1053c7a891e2476485355251dba Roy Lee <lipeiheng4396@Gmail.com> 1778723400 +0800	commit: refactor: v2.1.0 架构重构 - 拆分工作流，知识库下沉按需加载
+9824b773c1f4c1053c7a891e2476485355251dba b15422663647c0e99578b6b76ea1b478c09f3c4b Roy Lee <lipeiheng4396@Gmail.com> 1778724072 +0800	commit: chore: 统一版本历史时间格式
+b15422663647c0e99578b6b76ea1b478c09f3c4b af01c047d0b93c93d1d7e0c9301d08f2f184d94b Roy Lee <lipeiheng4396@Gmail.com> 1778745990 +0800	commit: feat: v2.2.0 增强执行约束与检测能力
+af01c047d0b93c93d1d7e0c9301d08f2f184d94b 2f96c907bbb0e09a33d19d3a3c5d540b6e782cc2 Roy Lee <lipeiheng4396@Gmail.com> 1779079639 +0800	commit: feat: v2.3.0 增强多轮对话体验、完善视频/评论区场景、优化Token管理
+2f96c907bbb0e09a33d19d3a3c5d540b6e782cc2 26702aa8cf920e3344a33ed34b00f105dde0d9cf Roy Lee <lipeiheng4396@Gmail.com> 1779081292 +0800	commit: chore: 统一 v2.3.0 版本日期为 2026-05-18
+26702aa8cf920e3344a33ed34b00f105dde0d9cf f7f22ee5636b096701e8726a3ff9cd42d49c10da Roy Lee <lipeiheng4396@Gmail.com> 1779326836 +0800	commit: refactor: v2.3.0 Skill 架构改造 - 路由中心 + 知识库拆分
+f7f22ee5636b096701e8726a3ff9cd42d49c10da 63f52f6301a6cc11e74203a3701be92e2681a519 Roy Lee <lipeiheng4396@Gmail.com> 1779327511 +0800	commit: chore: v2.4.0 更新 README 并清理 agents 目录
+63f52f6301a6cc11e74203a3701be92e2681a519 38cde6db509db009c4e9b025e20b11bea9cd46ee Roy Lee <lipeiheng4396@Gmail.com> 1779327752 +0800	commit: chore: 统一 references/ 下所有文件版本号为 2.4.0，日期 2026-05-21
+38cde6db509db009c4e9b025e20b11bea9cd46ee 1200c9f43b30275883c217737a5749001b494110 Roy Lee <lipeiheng4396@Gmail.com> 1779346291 +0800	commit: feat: v2.5.0 新增反馈收集与自进化机制，优化输出体验
+1200c9f43b30275883c217737a5749001b494110 70bcf7dcf35a36d48be3b9f5af329feb3c965bf7 Roy Lee <lipeiheng4396@Gmail.com> 1779556053 +0800	commit: 架构重组：拆分 README.md（用户面向）与 SKILL_LOGIC.md（工程面向）
+70bcf7dcf35a36d48be3b9f5af329feb3c965bf7 064467cfc11364a078063f438cfb6db953fdc5fd Roy Lee <lipeiheng4396@Gmail.com> 1779557741 +0800	commit: 更新 Skill 内容：优化检测逻辑和文档
+064467cfc11364a078063f438cfb6db953fdc5fd 2cac9db096309298f3230742559d8664e180ea98 Roy Lee <lipeiheng4396@Gmail.com> 1779945630 +0800	commit: v1.3.1 (2026-05-28): 重构 Skill 架构
+2cac9db096309298f3230742559d8664e180ea98 47bbb1924778816cfac7025ca4ea083de2bcea4a Roy Lee <lipeiheng4396@Gmail.com> 1779946015 +0800	commit: v1.3.2 (2026-05-28): 修正措辞、分隔协议、视频叠加模式
+47bbb1924778816cfac7025ca4ea083de2bcea4a 264bd5d13efe02f29a4bfd68bbd414345992c289 Roy Lee <lipeiheng4396@Gmail.com> 1781102952 +0800	commit: v1.3.3 (2026-05-28): 语义分析层 + 首次欢迎语 + 仓库级README
+264bd5d13efe02f29a4bfd68bbd414345992c289 96bcd71d2a4b93a03273f6db4eae9e3c1a14222f Roy Lee <lipeiheng4396@Gmail.com> 1781108800 +0800	commit: v1.3.2 (2026-06-11): 添加欢迎语、语义风险识别、README外移
+96bcd71d2a4b93a03273f6db4eae9e3c1a14222f 98707a43332248c6b7009b6265c1dcbee041dd91 Roy Lee <lipeiheng4396@Gmail.com> 1781109868 +0800	commit: docs: 重写 README，参考阿囤囤风格，添加参赛声明
+98707a43332248c6b7009b6265c1dcbee041dd91 dada40e8a2909f4ef765c17b58cec6b4f464dce2 Roy Lee <lipeiheng4396@Gmail.com> 1781110443 +0800	commit: docs: 更新 README 标题和参赛声明
