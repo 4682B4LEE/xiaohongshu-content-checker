@@ -1,0 +1,16 @@
+# macOS 系统文件
+.DS_Store
+
+# TRAE 配置目录
+.trae/
+
+# 测试目录
+tests/
+
+# Git 备份
+.git.backup/
+
+# 仓库级文档
+CHANGELOG.md
+README.md
+SKILL_LOGIC.md
