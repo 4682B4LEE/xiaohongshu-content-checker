@@ -9,8 +9,3 @@ tests/
 
 # Git 备份
 .git.backup/
-
-# 仓库级文档
-CHANGELOG.md
-README.md
-SKILL_LOGIC.md
