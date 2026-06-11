@@ -1,7 +1,7 @@
 ---
 name: mode-video
-version: 1.3.2
-last_updated: 2026-05-28
+version: 1.3.3
+last_updated: 2026-06-12
 type: reference-knowledge
 ---
 
