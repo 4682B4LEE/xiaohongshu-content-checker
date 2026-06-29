@@ -11,6 +11,7 @@
 **本 Skill 是参与 TRAE 社区「一切皆可 Skill」SOLO 技能创作赛的作品，使用 TRAE SOLO 完成。**
 
 - 活动链接：[https://forum.trae.cn/t/topic/16860](https://forum.trae.cn/t/topic/16860)
+- 帖子链接：[https://forum.trae.cn/t/topic/17100](https://forum.trae.cn/t/topic/17100)
 - 开发工具：TRAE SOLO（现已正式升级为 TRAE Work）
 
 ---
